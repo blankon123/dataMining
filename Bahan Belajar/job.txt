@@ -1,0 +1,27 @@
+Energy Saving
+!Save Our Earth
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+##############################################################
+~Clustering Based On Day (Varians setiap hari)
+~Forecasting per Cluster (Per cluster harian)
+
+~Clustering Profile Konsumen (Rata-rata penggunaan malam,pagi,weekend(sabtu-minggu),weekdays(senin-jumat))
+Day (7AM,8PM)
+Night (8PM, 7AM)
+
+23jam(27,25,31,30)
+(di nolin)(total/92*96 - total)/4
+25jam(30,28,27,26)
+(di nolin)(total/100*96 - total)/4
+
+3data awal !ngaco
+###############################################################
+
+SOM K-Means based on 4 Feature
+Outlier Scikit
+###############################################################
+Forecasting per cluster
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~Mencari waktu paling tepat untuk Save60minute per kelompok user
+~Mencari paket paling tepat supaya user menekan penggunaan listrik
