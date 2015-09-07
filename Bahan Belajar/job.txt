@@ -24,4 +24,8 @@ Outlier Scikit
 Forecasting per cluster
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ~Mencari waktu paling tepat untuk Save60minute per kelompok user
-~Mencari paket paling tepat supaya user menekan penggunaan listrik
+
+~misah si pemakai besar
+~misah rumah tangga
+~flagging cluster
+~mean(hour,sum) !RECEK TGL LANGGANAN GAN
